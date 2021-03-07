@@ -20,7 +20,7 @@ The list should be defined in a format that's compatible with the input format. 
 No 3rd party frameworks are allowed apart from for testing. Start all code from scratch.
 1. Provide a README file containing clear, simple instructions upon how to execute the code and tests.
 2. If anything needs clarification which is not detailed here, make an assumption and note this in the README file.
- 3. Be prepared to suggest to us how we could extend the code towards new types of transportation, which might have di erent characteristics.
+ 3. Be prepared to suggest to us how we could extend the code towards new types of transportation, which might have different characteristics.
 4. The implementation of your sorting algorithm should work with any set of boarding passes, as long as there is always an unbroken chain between all the legs of the trip. i.e. it's one continuous trip with no interruptions.
 5. The algorithm doesn't need to consider that departure / arrival are in the correct order. In fact there is no information about any such times on the boarding passes. It is just assumed that your next connection is waiting for you when you arrive at a destination.
 6. The algorithm should have the lowest possible order of complexity (Big O notation) you could think of.
@@ -33,6 +33,6 @@ This task is designed to give us an idea of:
 - your ability to deliver an appropriate, simple solution to a given problem
 - how you work when faced with limited time to solve a problem of significant
 complexity.
-- the e ciency of the sorting algorithm you implement.
+- the efficiency of the sorting algorithm you implement.
 
 **Hint:** we are not looking for a solution designed to demonstrate your entire knowledge of the language. Please just make appropriate use of the language to solve the problem in hand cleanly.
